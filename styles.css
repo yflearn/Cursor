@@ -120,7 +120,7 @@ header p {
 
 input[type="range"] {
     flex: 1;
-    -webkit-appearance: none;
+    git branch -M main: none;
     height: 4px;
     background: #DEDEDE;
     border-radius: 2px;
